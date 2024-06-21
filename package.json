@@ -1,0 +1,13 @@
+{
+  "name": "scraper-hukum",
+  "version": "1.0.0",
+  "main": "src/scraper.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "puppeteer": "^22.12.0"
+  }
+}
